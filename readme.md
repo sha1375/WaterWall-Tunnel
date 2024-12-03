@@ -10,7 +10,7 @@
 ## Install & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/dev-ir/WaterWall-Tunnel/master/main.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/sha1375/WaterWall-Tunnel/master/main.sh)
 ```
 
 ## Languages
