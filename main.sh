@@ -236,7 +236,7 @@ cat <<EOL > dev-ir.json
             "type": "TcpListener",
             "settings": {
                 "address": "0.0.0.0",
-                "port": [40040],
+                "port": [40040,40041],
                 "nodelay": true
             },
             "next": "header"
